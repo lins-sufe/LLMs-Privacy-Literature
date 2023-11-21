@@ -49,4 +49,4 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 
 | Year   | Title |  Conference | Field  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2023 | **You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content?** | IEEE | unknown  | arXiv | [Link](https://arxiv.org/pdf/2308.05596.pdf) | unknown |
+| 2023 | **You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content?** | IEEE | unknown  | arXiv | [Link](https://arxiv.org/pdf/2308.05596.pdf) | [Link](https://github.com/xinleihe/toxic-prompt) |
