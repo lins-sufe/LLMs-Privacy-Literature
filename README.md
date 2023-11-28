@@ -11,7 +11,7 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 **Prompt attack:** [Link](#prompt-attack-back-to-top)  
 **Jailbreak attack:** [Link](#jailbreak-attack-back-to-top)   
 **De-identification and anonymization of medical reports:** [Link](#de-identification-and-anonymization-of-medical-reports-back-to-top)  
-**Tackle Toxic Content** [Link](#tackle-toxic-content-back-to-top)   
+**Prompt Learning** [Link](#prompt-learning-back-to-top)   
 
 ## Motivation [[Back to Top](#llms-privacy-literature)]
 
@@ -45,8 +45,9 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 | 2023 | **“Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models** | unknown | unknown | arXiv | [Link](https://arxiv.org/pdf/2308.03825.pdf) | [Link](https://github.com/microsoft/promptbench) |
 | 2023 | **“MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots** | unknown | unknown | arXiv | [Link](https://arxiv.org/pdf/2307.08715.pdf) | [Link](https://github.com/microsoft/promptbench) | 
       
-## Tackle Toxic Content [[Back to Top](#llms-privacy-literature)]
+## Prompt Learning [[Back to Top](#llms-privacy-literature)]
 
 | Year   | Title |  Conference | Field  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2023 | **You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content?** | IEEE | unknown  | arXiv | [Link](https://arxiv.org/pdf/2308.05596.pdf) | [Link](https://github.com/xinleihe/toxic-prompt) |
+| 2023 | **You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content?** | S&P | unknown  | arXiv | [Link](https://arxiv.org/pdf/2308.05596.pdf) | [Link](https://github.com/xinleihe/toxic-prompt) |
+| 2021 | **The Power of Scale for Parameter-Efficient Prompt Tuning** | unknown | unknown  | arXiv | [Link](https://arxiv.org/pdf/2104.08691.pdf) | [Link](https://github.com/xinleihe/toxic-prompt) |
