@@ -12,6 +12,7 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 **Jailbreak attack:** [Link](#jailbreak-attack-back-to-top)   
 **De-identification and anonymization of medical reports:** [Link](#de-identification-and-anonymization-of-medical-reports-back-to-top)  
 **Prompt Learning** [Link](#prompt-learning-back-to-top)   
+**Style Transfer** [Link](#style-transfer-back-to-top)  
 
 ## Motivation [[Back to Top](#llms-privacy-literature)]
 
@@ -53,3 +54,10 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2023 | **You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content?** | S&P | unknown  | arXiv | [Link](https://arxiv.org/pdf/2308.05596.pdf) | [Link](https://github.com/xinleihe/toxic-prompt) |
 | 2021 | **The Power of Scale for Parameter-Efficient Prompt Tuning** | unknown | unknown  | arXiv | [Link](https://arxiv.org/pdf/2104.08691.pdf) | unknown |
+
+## Style Transfer [[Back to Top](#llms-privacy-literature)]
+
+| Year   | Title |  Conference | Field  |   Venue  | Paper Link  | Code Link |
+|-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **ParaDetox: Detoxification with Parallel Data** | ACL | unknown  | acl | [Link](https://aclanthology.org/2022.acl-long.469.pdf) | unknown |
+
