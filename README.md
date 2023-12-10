@@ -13,6 +13,7 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 **De-identification and anonymization of medical reports:** [Link](#de-identification-and-anonymization-of-medical-reports-back-to-top)  
 **Prompt Learning** [Link](#prompt-learning-back-to-top)   
 **Style Transfer** [Link](#style-transfer-back-to-top)  
+**Text Generation** [Link](#text-generation-back-to-top)  
 
 ## Motivation [[Back to Top](#llms-privacy-literature)]
 
@@ -61,3 +62,8 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2022 | **ParaDetox: Detoxification with Parallel Data** | ACL | unknown  | acl | [Link](https://aclanthology.org/2022.acl-long.469.pdf) | unknown |
 
+## Text Generation [[Back to Top](#llms-privacy-literature)]
+
+| Year   | Title |  Conference | Type  |   Venue  | Paper Link  | Code Link |
+|-------|--------|--------|--------|-----------|------------|---------------|
+| 2021 | **Pretrained Language Models for Text Generation: A Survey** | IJCAI  | survey  | arxiv | [Link](https://arxiv.org/pdf/2201.05273.pdf) | unknown |
