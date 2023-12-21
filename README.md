@@ -59,7 +59,7 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 
 | Year   | Title |  Conference | Type  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2020 | **A Short Survey of Pre-trained Language Models for Conversational AI-A New Age in NLP** | ACSW  | survey  | arxiv | [Link](https://arxiv.org/pdf/2104.10810.pdf) | unknown |
-| 2021 | **Pretrained Language Models for Text Generation: A Survey** | IJCAI  | survey  | arxiv | [Link](https://arxiv.org/pdf/2201.05273.pdf) | unknown |
+| 2021 | **Pretrained Language Models for Text Generation: A Survey** | ACM  | survey  | arxiv | [Link](https://arxiv.org/pdf/2201.05273.pdf) | unknown |
 | 2021 | **Automatic text summarization: A comprehensive survey** | Expert Syst. Appl. (2021)| survey | ScienceDirect | [Link](https://www.sciencedirect.com/science/article/pii/S0957417420305030) | unknown |
 | 2022 | **ParaDetox: Detoxification with Parallel Data** | ACL | unknown  | acl | [Link](https://aclanthology.org/2022.acl-long.469.pdf) | unknown |
+| 2023 | **A Systematic survey on automated text generation tools and techniques: application, evaluation, and challenges** | MULTIMED TOOLS APPL| survey | springer | [Link](https://link.springer.com/article/10.1007/s11042-023-15224-0) | unknown |
