@@ -7,7 +7,8 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 
 
 ## Quick Links
-**Motivation:** [Link](#motivation-back-to-top)   
+**Motivation:** [Link](#motivation-back-to-top)  
+**Text Anonymization:** [Link](#text-anonymization-back-to-top)  
 **Prompt attack:** [Link](#prompt-attack-back-to-top)  
 **Jailbreak attack:** [Link](#jailbreak-attack-back-to-top)   
 **De-identification and anonymization of medical reports:** [Link](#de-identification-and-anonymization-of-medical-reports-back-to-top)  
@@ -19,7 +20,11 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 | Year   | Title |  Conference | Field  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2023 | **Beyond Memorization: Violating Privacy Via Inference with Large Language Models** | unknown | unknown | arXiv | [Link](https://arxiv.org/pdf/2310.07298v1.pdf) | unknown |
+## Text Anonymization [[Back to Top](#llms-privacy-literature)]
 
+| Year   | Title |  Conference | Field  |   Venue  | Paper Link  | Code Link |
+|-------|--------|--------|--------|-----------|------------|---------------|
+| 2022 | **DP-VAE: Human-Readable Text Anonymization for Online Reviews with Differentially Private Variational Autoencoders** | WWW’22 | unknown | ACM | [Link](https://dl.acm.org/doi/10.1145/3485447.3512232) | unknown |
 
 ## Prompt attack [[Back to Top](#llms-privacy-literature)]
 
