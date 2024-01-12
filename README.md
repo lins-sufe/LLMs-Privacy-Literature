@@ -20,6 +20,7 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 | Year   | Title |  Conference | Field  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2023 | **Beyond Memorization: Violating Privacy Via Inference with Large Language Models** | unknown | unknown | arXiv | [Link](https://arxiv.org/pdf/2310.07298v1.pdf) | unknown |
+| 2023 | **DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models** | NeurIPS | unknown | arXiv | [Link](https://arxiv.org/pdf/2306.11698v4.pdf) | [Link](https://decodingtrust.github.io/) |
 ## Text Anonymization [[Back to Top](#llms-privacy-literature)]
 
 | Year   | Title |  Conference | Field  |   Venue  | Paper Link  | Code Link |
