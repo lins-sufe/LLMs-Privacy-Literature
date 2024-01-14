@@ -50,10 +50,11 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 | Year   | Title |  Conference | Field  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2023 | **ON THE SAFETY OF OPEN-SOURCED LARGE LANGUAGE MODELS: DOES ALIGNMENT REALLY PREVENT THEM FROM BEING MISUSED?** | unknown | Jailbreak  | arXiv | [Link](https://arxiv.org/pdf/2310.01581.pdf) | unknown |
-| 2023 | **“Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models** | unknown | unknown | arXiv | unknown |
-| 2023 | **“MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots** | unknown | unknown | arXiv | [Link](https://arxiv.org/pdf/2307.08715.pdf) | unknown | 
-| 2023 | **“Universal and Transferable Adversarial Attacks on Aligned Language Models** | unknown | unknown | arXiv | [Link](https://arxiv.org/pdf/2307.15043.pdf) | unknown | 
-| 2023 | **“SneakyPrompt: Jailbreaking Text-to-image Generative Models** | IEEE S&P 2024 | unknown | arXiv | [Link](https://arxiv.org/pdf/2305.12082.pdf) | [Link](https://github.com/Yuchen413/text2image-safety) | 
+| 2023 | **Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models** | unknown | unknown | arXiv | unknown |
+| 2023 | **MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots** | unknown | unknown | arXiv | [Link](https://arxiv.org/pdf/2307.08715.pdf) | unknown | 
+| 2023 | **Universal and Transferable Adversarial Attacks on Aligned Language Models** | unknown | unknown | arXiv | [Link](https://arxiv.org/pdf/2307.15043.pdf) | unknown | 
+| 2023 | **SneakyPrompt: Jailbreaking Text-to-image Generative Models** | IEEE S&P 2024 | unknown | arXiv | [Link](https://arxiv.org/pdf/2305.12082.pdf) | [Link](https://github.com/Yuchen413/text2image-safety) | 
+| 2024 | **How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs** | unknown | unknown | unknown | [Link](https://www.yi-zeng.com/wp-content/uploads/2024/01/view.pdf) | unknown | 
       
 ## Prompt Learning [[Back to Top](#llms-privacy-literature)]
 
