@@ -26,6 +26,7 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 | Year   | Title |  Conference | Field  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2022 | **DP-VAE: Human-Readable Text Anonymization for Online Reviews with Differentially Private Variational Autoencoders** | WWW’22 | unknown | ACM | [Link](https://dl.acm.org/doi/10.1145/3485447.3512232) | unknown |
+| 2023 | **Reducing Privacy Risks in Online Self-Disclosures with Language Models** | unknown | unknown | arxiv | [Link](https://arxiv.org/pdf/2311.09538.pdf) | unknown |
 
 ## Prompt attack [[Back to Top](#llms-privacy-literature)]
 
