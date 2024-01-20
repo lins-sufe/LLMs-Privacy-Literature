@@ -8,7 +8,8 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 
 ## Quick Links
 **Motivation:** [Link](#motivation-back-to-top)  
-**Text Anonymization:** [Link](#text-anonymization-back-to-top)  
+**Text Anonymization:** [Link](#text-anonymization-back-to-top)
+**Style Transfer:** [Link](#style-transfer-back-to-top)
 **Prompt attack:** [Link](#prompt-attack-back-to-top)  
 **Jailbreak attack:** [Link](#jailbreak-attack-back-to-top)   
 **De-identification and anonymization of medical reports:** [Link](#de-identification-and-anonymization-of-medical-reports-back-to-top)  
@@ -25,8 +26,20 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 
 | Year   | Title |  Conference | Field  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2022 | **DP-VAE: Human-Readable Text Anonymization for Online Reviews with Differentially Private Variational Autoencoders** | WWW’22 | unknown | ACM | [Link](https://dl.acm.org/doi/10.1145/3485447.3512232) | unknown |
-| 2023 | **Reducing Privacy Risks in Online Self-Disclosures with Language Models** | unknown | unknown | arxiv | [Link](https://arxiv.org/pdf/2311.09538.pdf) | unknown |
+| 2021 | **ADePT: Auto-encoder based Differentially Private Text Transformation** | ACL2021 | DP(sentence level) | arxiv | [Link](https://arxiv.org/pdf/2102.01502.pdf) | [Link]( https://github.com/trusthlt/dp-rewrite) |
+| 2022 | **DP-VAE: Human-Readable Text Anonymization for Online Reviews with Differentially Private Variational Autoencoders** | WWW’22 | DP(sentence level) | ACM | [Link](https://dl.acm.org/doi/10.1145/3485447.3512232) | unknown |
+| 2022 | **A Customized Text Sanitization Mechanism with Differential Privacy** | ACL2023 | DP(token level) | arxiv | [Link](https://arxiv.org/pdf/2207.01193.pdf) | [Link]( https://github.com/sai4july/CusText) |
+| 2023 | **Reducing Privacy Risks in Online Self-Disclosures with Language Models** | unknown | Finetune | arxiv | [Link](https://arxiv.org/pdf/2311.09538.pdf) | unknown |
+| 2023 | **DP-BART for Privatized Text Rewriting under Local Differential Privacy** | ACL2023 | DP(sentence level) | arxiv | [Link](https://arxiv.org/pdf/2302.07636.pdf) | [Link](https://github.com/trusthlt/dp-bart-private-rewriting) |
+| 2023 | **Locally Differentially Private Document Generation Using Zero Shot Prompting** | unknown | zero-shot LLM | arxiv | [Link](https://arxiv.org/pdf/2310.16111.pdf) | [Link](https://github.com/SaitejaUtpala/dp_prompt) |
+| 2023 | **Differentially Private Natural Language Models: Recent Advances and Future Directions** | unknown | survey | arxiv | [Link](https://arxiv.org/pdf/2301.09112.pdf) | known|
+| 2023 | **DEFENDING AGAINST AUTHORSHIP IDENTIFICATION ATTACKS** | unknown | survey | arxiv | [Link](https://arxiv.org/pdf/2310.01568.pdf) | known|
+
+## Style Transfer [[Back to Top](#llms-privacy-literature)]
+| Year   | Title |  Conference | Field  |   Venue  | Paper Link  | Code Link |
+|-------|--------|--------|--------|-----------|------------|---------------|
+| 2018 | **Delete, Retrieve, Generate:A Simple Approach to Sentiment and Style Transfer** | ACL | unknown | ACL | [Link](https://aclanthology.org/N18-1169.pdf) | [Link](https://github.com/lijuncen/Sentiment-and-Style-Transfer) |
+| 2019 | **Disentangled Representation Learning for Non-Parallel Text Style Transfer** | ACL | Disentangle | ACL | [Link](https://aclanthology.org/P19-1041.pdf) | [Link](https://sites.google.com/view/disentangle4transfer)|
 
 ## Prompt attack [[Back to Top](#llms-privacy-literature)]
 
