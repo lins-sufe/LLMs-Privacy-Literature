@@ -32,7 +32,7 @@ Paper  are divided into three categories: motivation, possible dataset and metho
 | 2023 | **Reducing Privacy Risks in Online Self-Disclosures with Language Models** | unknown | Finetune | arxiv | [Link](https://arxiv.org/pdf/2311.09538.pdf) | unknown |
 | 2023 | **DP-BART for Privatized Text Rewriting under Local Differential Privacy** | ACL2023 | DP(sentence level) | arxiv | [Link](https://arxiv.org/pdf/2302.07636.pdf) | [Link](https://github.com/trusthlt/dp-bart-private-rewriting) |
 | 2023 | **DP-BART for Privatized Text Rewriting under Local Differential Privacy** | ACL2023 | DP(sentence level) | arxiv | [Link](https://arxiv.org/pdf/2302.07636.pdf) | [Link](https://github.com/trusthlt/dp-bart-private-rewriting) |
-| 2023 | **InferDPT: Privacy-preserving Inference for Black-box Large Language Models** | unknown | DP(token level) | arxiv | [Link](https://arxiv.org/pdf/2310.12214.pdf) | unknown |
+| 2023 | ***InferDPT: Privacy-preserving Inference for Black-box Large Language Models*** | unknown | DP(token level) | arxiv | [Link](https://arxiv.org/pdf/2310.12214.pdf) | unknown |
 | 2023 | **Differentially Private Natural Language Models: Recent Advances and Future Directions** | unknown | survey | arxiv | [Link](https://arxiv.org/pdf/2301.09112.pdf) | unknown|
 | 2023 | **DEFENDING AGAINST AUTHORSHIP IDENTIFICATION ATTACKS** | unknown | survey | arxiv | [Link](https://arxiv.org/pdf/2310.01568.pdf) | unknown|
 
